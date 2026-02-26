@@ -4,3 +4,4 @@ https://polyhaven.com/a/ornate_mirror_01
 https://polyhaven.com/a/GothicBed_01
 https://polyhaven.com/a/vintage_grandfather_clock_01
 https://polyhaven.com/a/brass_diya_lantern
+https://assetstore.unity.com/packages/3d/props/interior/free-rug-pack-118178
