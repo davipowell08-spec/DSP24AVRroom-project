@@ -1,2 +1,6 @@
  https://disneyartonmain.com/products/the-rabbit-hole-disney-limited-edition-canvas-by-michael-provenza?srsltid=AfmBOoqoWyK07Kd2pfpSRy1eE7Ciu8vM7XFj4uphJNal0ikPOn5dGyUz
 https://polyhaven.com/a/checkered_pavement_tiles
+https://polyhaven.com/a/ornate_mirror_01
+https://polyhaven.com/a/GothicBed_01
+https://polyhaven.com/a/vintage_grandfather_clock_01
+https://polyhaven.com/a/brass_diya_lantern
