@@ -5082,7 +5082,13 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 018d66dea2011b344ac93c902c9d46ff, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1777637775}
+    - targetCorrespondingSourceObject: {fileID: -994204654648022394, guid: 018d66dea2011b344ac93c902c9d46ff, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 273708301}
   m_SourcePrefab: {fileID: 100100000, guid: 018d66dea2011b344ac93c902c9d46ff, type: 3}
 --- !u!1 &194201265
 GameObject:
@@ -7357,6 +7363,25 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: a3d02e08cf731b44eb277096d98d5c2d, type: 3}
   m_PrefabInstance: {fileID: 265519511}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &273708297 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -994204654648022394, guid: 018d66dea2011b344ac93c902c9d46ff, type: 3}
+  m_PrefabInstance: {fileID: 191571366}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &273708301
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 273708297}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb6c8e8dc8be2cf44a0e8eecaee80b4e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  liquidParticles: {fileID: 0}
+  pourThreshold: 45
 --- !u!1001 &274293012
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -47600,6 +47625,25 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: a3d02e08cf731b44eb277096d98d5c2d, type: 3}
   m_PrefabInstance: {fileID: 1772820523}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1777637773 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 018d66dea2011b344ac93c902c9d46ff, type: 3}
+  m_PrefabInstance: {fileID: 191571366}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1777637775
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1777637773}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb6c8e8dc8be2cf44a0e8eecaee80b4e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  liquidParticles: {fileID: 0}
+  pourThreshold: 45
 --- !u!1001 &1778909049
 PrefabInstance:
   m_ObjectHideFlags: 0
