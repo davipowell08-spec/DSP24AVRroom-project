@@ -8,3 +8,4 @@ https://polyhaven.com/a/food_apple_01
 https://polyhaven.com/a/strawberry_chocolate_cake
 https://polyhaven.com/a/croissant
 https://assetstore.unity.com/packages/3d/vegetation/flowers/demo-low-poly-flower-pack-325074
+https://polyhaven.com/a/gallinera_chair
