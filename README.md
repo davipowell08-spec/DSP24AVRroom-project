@@ -11,3 +11,4 @@ https://assetstore.unity.com/packages/3d/vegetation/flowers/demo-low-poly-flower
 https://polyhaven.com/a/gallinera_chair
 https://assetstore.unity.com/packages/3d/props/playing-cards-design-pack-160928
 https://assetstore.unity.com/packages/3d/props/food/low-poly-dessert-pack-267121
+https://assetstore.unity.com/packages/3d/props/grimoire-style-book-3996
