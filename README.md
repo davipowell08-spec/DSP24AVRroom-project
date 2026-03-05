@@ -9,3 +9,4 @@ https://polyhaven.com/a/strawberry_chocolate_cake
 https://polyhaven.com/a/croissant
 https://assetstore.unity.com/packages/3d/vegetation/flowers/demo-low-poly-flower-pack-325074
 https://polyhaven.com/a/gallinera_chair
+https://assetstore.unity.com/packages/3d/props/playing-cards-design-pack-160928
