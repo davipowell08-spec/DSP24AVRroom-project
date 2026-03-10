@@ -1,44 +1,25 @@
 using UnityEngine;
 
-public class LiquidPour : MonoBehaviour
+public class ConstantPour : MonoBehaviour
 {
-    [Header("Settings")]
     public ParticleSystem liquidParticles;
-    public float pourThreshold = 45f; // Angle at which pouring starts
 
-    [Header("Stream Control")]
-    private bool isPouring = false;
-
-    void Update()
+    void Start()
     {
-        // Calculate the tilt angle relative to the "Up" direction
-        // We check if the angle between the bottle's 'Up' and the World 'Up'
-        // is greater than our threshold.
-        float tiltAngle = Vector3.Angle(Vector3.up, transform.up);
-
-        if (tiltAngle > pourThreshold)
+        // Ensure the particle system starts playing immediately
+        if (liquidParticles != null)
         {
-            StartPouring();
+            // Optional: Ensure "Play on Awake" is handled via code
+            var main = liquidParticles.main;
+            main.playOnAwake = true;
+
+            liquidParticles.Play();
         }
         else
         {
-            StopPouring();
+            Debug.LogError("Assign a Particle System to the ConstantPour script!");
         }
     }
 
-    void StartPouring()
-    {
-        if (isPouring) return;
-
-        isPouring = true;
-        liquidParticles.Play();
-    }
-
-    void StopPouring()
-    {
-        if (!isPouring) return;
-
-        isPouring = false;
-        liquidParticles.Stop();
-    }
+    // Update is empty because we no longer care about the angle!
 }
