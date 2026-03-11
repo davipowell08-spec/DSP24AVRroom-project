@@ -16,4 +16,4 @@ https://polyhaven.com/a/garden_gnome
 https://polyhaven.com/a/alarm_clock_01
 https://polyhaven.com/a/fancy_picture_frame_01
 
-Welcome to my Alice in Wonderland inspired room! This is what I envisioned falling down a rabbit hole would look like, starting from Alice's room on the base floor and all the way up to the sky using a staircase.
+Welcome to my Alice in Wonderland inspired room! This is what I envisioned falling down a rabbit hole would look like. It starts from the base floor and includes items such as a bed, a chessboard and a grandfather clock. Alice needs to climb an extensive staircase circling the building's interior in order to reach the top and escape the rabbit hole. Along the way, she can dine in at the tea party and read a nice book.
