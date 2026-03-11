@@ -15,3 +15,5 @@ https://assetstore.unity.com/packages/3d/props/grimoire-style-book-3996
 https://polyhaven.com/a/garden_gnome
 https://polyhaven.com/a/alarm_clock_01
 https://polyhaven.com/a/fancy_picture_frame_01
+
+Welcome to my Alice in Wonderland inspired room! This is what I envisioned falling down a rabbit hole would look like, starting from Alice's room on the base floor and all the way up to the sky using a staircase.
